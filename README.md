@@ -1,7 +1,7 @@
-# CrowdNav
+# CrowdNav （torch）  
 This repository contains the codes for our ICRA 2019 paper. For more details, please refer to the paper
 [Crowd-Robot Interaction: Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning](https://arxiv.org/abs/1809.08835).
-
+进一步 https://github.com/nubot-nudt/SG-DQN   Robot Navigation in a Crowd by Integrating Deep Reinforcement Learning and Online Planning
 Please find our more recent work on 
 - [Relational Graph Learning for Crowd Navigation](https://github.com/ChanganVR/RelationalGraphLearning).
 - [Social NCE: Contrastive Learning of Socially-aware Motion Representations](https://github.com/vita-epfl/social-nce).
